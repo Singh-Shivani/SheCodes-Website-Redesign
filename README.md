@@ -27,6 +27,17 @@
    <p align="center">
        <img src="Website_Pages_Png/Success Stories.png" alt="Logo" width = 85%> 
    </p>
+   
+
+### How to Use it? 🤔
+  
+   1. Download the ```SheCodes_Website_Redesign.fig```  file from the repository located in ```/master```
+   <p align="center">
+       <img src="Figma.png" alt="Logo" width = 85%> 
+   </p>
+   
+       
+
   
 ## A Figma Product⚡
    - You can find this design on Figma 
