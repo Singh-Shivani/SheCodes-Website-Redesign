@@ -30,13 +30,17 @@
    
 
 ### How to Use it? 🤔
-   Prerequisites - Open an account on <a href="https://www.figma.com/"> Figma</a>(If you're willing to customize it, or wants to see each and every part of the design).
+
+   - Prerequisites - Open an account on <a href="https://www.figma.com/"> Figma</a> (If you're willing to customize it, or wants to see each and every part of the design).
   
    1. Download the ```SheCodes_Website_Redesign.fig```  file from the repository located in branch ```master```
+   
    <p align="center">
        <img src="Figma.png" alt="Logo" width = 85%> 
    </p>
+   
    2. Click on "IMPORT" button as shown in the above image. Choose the file you've saved and you're done!🥳
+   
    3. Manipulate and customize the design in your way! 
    
 ## A Figma Product⚡
