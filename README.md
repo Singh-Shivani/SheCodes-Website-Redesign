@@ -27,6 +27,11 @@
    <p align="center">
        <img src="Website_Pages_Png/Success Stories.png" alt="Logo" width = 85%> 
    </p>
-   
+  
+## A Figma Product⚡
+   - You can find this design on Figma 
+      - <a href="https://www.figma.com/file/bgD89cN2xc99cXbeUGutf4/SheCodes_Website_Redesign?node-id=0%3A1">Click here! 👩‍💼 </a>
+   - For Prototype
+      - <a href="https://www.figma.com/proto/bgD89cN2xc99cXbeUGutf4/SheCodes_Website_Redesign?node-id=6%3A0&scaling=contain">Click here! 🎯</a>
   
 
